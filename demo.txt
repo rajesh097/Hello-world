@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7AF9-65DF
+
+ Directory of C:\Study\Self Tutorial\Java_project
+
+05/08/2018  09:37 AM    <DIR>          .
+05/08/2018  09:37 AM    <DIR>          ..
+05/08/2018  09:37 AM                 0 demo.txt
+05/08/2018  09:12 AM               900 Hello.class
+05/08/2018  09:12 AM               146 Hello.java
+               3 File(s)          1,046 bytes
+               2 Dir(s)  236,992,053,248 bytes free
